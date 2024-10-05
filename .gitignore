@@ -1,6 +1,7 @@
-.zig-cache/
+/.zig-cache/*
+!/.zig-cache/.keep
 
-zig-out/*
-!zig-out/.keep
+/zig-out/*
+!/zig-out/.keep
 
 .DS_Store
