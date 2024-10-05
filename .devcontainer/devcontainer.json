@@ -1,0 +1,12 @@
+{
+  "name": "Zig",
+  "dockerFile": "Dockerfile",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ziglang.vscode-zig",
+        "ms-azuretools.vscode-docker"
+      ]
+    }
+  }
+}
