@@ -10,3 +10,9 @@
 ```
 zig run src/main.zig
 ```
+```
+zig test test/test_pass.zig
+```
+```
+zig test test/test_fail.zig
+```
